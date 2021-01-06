@@ -21,3 +21,4 @@ outils de gestion adéquats. Dans cette optique, j’utilise des outils autant p
 Ce projet se subdivise en deux grandes partie une partie administrateur et une partie client, ces deux catégories d’utilisateurs partagent la même page d’accueil, qui contient 
 les informations nécessaires à afficher, cette page comporte les boutons de connexion et d’inscription, les contacts de la société et vers la fin un lien redirigeant vers une 
 autre page qui contient plus d’informations sur la société.
+ 
